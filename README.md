@@ -20,6 +20,12 @@ GROUP: IDYGS93
 
 LINK FOR SEE THE COLAB: https://colab.research.google.com/drive/1YpZ0SAlssCfwKAB7kWqslYNEUH-vgcAd?usp=sharing
 
+TEAM: 1
+
+GROUP: IDYGS91
+
+LINK FOR SEE THE COLAB: https://colab.research.google.com/drive/1h7FuAOym21WWULCykKmCZ9NNCVzMhQAj?usp=sharing
+
 ---
 
 # Merge
@@ -29,3 +35,9 @@ GROUP: IDYGS93
 TEAMS_MERGED: 1 - 3
 
 LINK FOR SEE THE COLAB: https://colab.research.google.com/drive/1UP4NwOM8SMHvGkY_7WxA-2CYFUsphYQx?usp=sharing
+
+GROUP: IDYGS 91
+
+TEAMS_MERGED: 1 
+
+LINK FOR SEE THE COLAB: https://colab.research.google.com/drive/1h7FuAOym21WWULCykKmCZ9NNCVzMhQAj?usp=sharing
