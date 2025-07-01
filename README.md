@@ -12,6 +12,14 @@ If you want to see that structure, see the attachment “datos_encoded.xlsx” i
 
 ---
 
+Toolkit Recomended
+
+You can use the extemsion **Data Wrangler** for VSCode to preview your data, use your querys or instructions
+
+![image](https://github.com/user-attachments/assets/c5dfd436-8d1e-4cbd-a768-9e9b3e624af6)
+
+---
+
 # Data Clean
 
 TEAM: 1
