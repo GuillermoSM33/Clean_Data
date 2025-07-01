@@ -4,7 +4,15 @@ This repository is the registry database for all groups in the engineering divis
 
 ---
 
-Data Clean
+# Our Structure
+
+We're using a structure based on true or false for the fields, we can work with this using our own system to send, train and predict data.
+
+If you want to see that structure, see the attachment “datos_encoded.xlsx” in this repository
+
+---
+
+# Data Clean
 
 TEAM: 1
 
