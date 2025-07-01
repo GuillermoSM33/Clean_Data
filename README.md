@@ -19,3 +19,13 @@ TEAM: 1
 GROUP: IDYGS93
 
 LINK FOR SEE THE COLAB: https://colab.research.google.com/drive/1YpZ0SAlssCfwKAB7kWqslYNEUH-vgcAd?usp=sharing
+
+---
+
+# Merge
+
+GROUP: IDYGS93
+
+TEAMS_MERGED: 1 - 3
+
+LINK FOR SEE THE COLAB: https://colab.research.google.com/drive/1UP4NwOM8SMHvGkY_7WxA-2CYFUsphYQx?usp=sharing
