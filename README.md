@@ -12,6 +12,14 @@ If you want to see that structure, see the attachment “datos_encoded.xlsx” i
 
 ---
 
+# Toolkit Recomended
+
+You can use the extemsion **Data Wrangler** for VSCode to preview your data, use your querys or instructions
+
+![image](https://github.com/user-attachments/assets/c5dfd436-8d1e-4cbd-a768-9e9b3e624af6)
+
+---
+
 # Data Clean
 
 TEAM: 1
@@ -19,6 +27,18 @@ TEAM: 1
 GROUP: IDYGS93
 
 LINK FOR SEE THE COLAB: https://colab.research.google.com/drive/1YpZ0SAlssCfwKAB7kWqslYNEUH-vgcAd?usp=sharing
+
+TEAM: 1
+
+GROUP: IDYGS91
+
+LINK FOR SEE THE COLAB: https://colab.research.google.com/drive/1h7FuAOym21WWULCykKmCZ9NNCVzMhQAj?usp=sharing
+
+TEAM: 1
+
+GROUP: IDYGS92
+
+LINK FOR SEE THE COLAB: https://colab.research.google.com/drive/1_G3_007EKgA6GaQi5AHoHkTRu1kHrtvx?usp=sharing
 
 ---
 
@@ -29,3 +49,15 @@ GROUP: IDYGS93
 TEAMS_MERGED: 1 - 3
 
 LINK FOR SEE THE COLAB: https://colab.research.google.com/drive/1UP4NwOM8SMHvGkY_7WxA-2CYFUsphYQx?usp=sharing
+
+GROUP: IDYGS 91
+
+TEAMS_MERGED: 1 
+
+LINK FOR SEE THE COLAB: https://colab.research.google.com/drive/1h7FuAOym21WWULCykKmCZ9NNCVzMhQAj?usp=sharing
+
+GROUP: IDYGS 92
+
+TEAMS_MERGED: 1
+
+LINK FOR SEE THE COLAB: https://colab.research.google.com/drive/1uVsbW39KN8BFtvR8gfX6g9Irh5i4FSE-?usp=sharing
