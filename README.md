@@ -85,3 +85,15 @@ GROUP: IDYGS 92
 TEAMS_MERGED: 1
 
 LINK FOR SEE THE COLAB: https://colab.research.google.com/drive/1uVsbW39KN8BFtvR8gfX6g9Irh5i4FSE-?usp=sharing
+
+---
+
+# Colleagues
+
+https://github.com/eduardo87DR
+
+https://github.com/JosueACG17
+
+They worked with me for the data sanitation, if you want to see their work you can visit:
+
+https://drive.google.com/drive/folders/1qSg4GxdvOL-2IRcPcrCNBDjyA-vvF8pa?usp=sharing
